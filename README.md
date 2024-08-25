@@ -62,3 +62,5 @@
     ^^     ^^     ^^                      /'   ___.---'
                                          <.--''
 ```
+
+[Study-Buddies](https://halbes-byte.github.io/Study-Buddies-Web/)
