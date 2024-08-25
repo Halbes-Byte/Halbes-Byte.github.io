@@ -63,4 +63,4 @@
                                          <.--''
 ```
 
-[Study-Buddies](https://halbes-byte.github.io/Study-Buddies-Web/)
+[Study-Buddies](https://halbes-byte.github.io/study-buddies-web/)
